@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuan Misoles</h1>
+<h1 align="center">Hi 👋, I'm Yuani Misoles</h1>
 <h3 align="center">Bachelor of Science in Information Technology from University of Mindanao</h3>
 
 ---
